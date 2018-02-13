@@ -1,0 +1,8 @@
+frameWidth = 800
+frameHeight = 800
+marbleSize = 30
+shooterSize = 50
+marbleQuantity = 20
+startPointX = 0
+startPointY = 200
+shootingAngleKeyboard = 90
